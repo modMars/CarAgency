@@ -1,0 +1,27 @@
+<?xml-stylesheet href="./modelos.xsl" type="text/xsl" ?>
+<familia2022>
+    <modelo>
+        <Nombre>SUV 123</Nombre>
+        <Color>Amarillo</Color>
+        <Año>2022</Año>
+        <Precio>2000 Dólares</Precio>
+    </modelo>
+    <modelo>
+        <Nombre>SUV 456</Nombre>
+        <Color>Blanco</Color>
+        <Año>2022</Año>
+        <Precio>3000 Dólares</Precio>
+    </modelo>
+    <modelo>
+        <Nombre>Jeep 123</Nombre>
+        <Color>Gris</Color>
+        <Año>2022</Año>
+        <Precio>2000 Dólares</Precio>
+    </modelo>
+    <modelo>
+        <Nombre>Jeep 456</Nombre>
+        <Color>Negro</Color>
+        <Año>2022</Año>
+        <Precio>3000 Dólares</Precio>
+    </modelo>
+</familia2022>
